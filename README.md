@@ -1,32 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Singh's Garage</title>
-  <style>
-    body {
-      background-color: #001f4d; /* dark blue */
-      color: #ffff00; /* yellow */
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      text-align: center;
-    }
-    header {
-      padding: 50px 20px 20px;
-    }
-    h1 {
-      font-size: 3em;
-      font-weight: bold;
-      margin-bottom: 20px;
-    }
-    main {
-      font-size: 1.2em;
-      line-height: 1.6;
-      padding: 0 20px 50px;
-    }
-  </style>
+
 </head>
 <body>
   <header>
