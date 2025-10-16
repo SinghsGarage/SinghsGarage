@@ -14,11 +14,6 @@
   </main>
 </body>
 </html>
-You can copy and paste this into a .html file and open it in your browser to see it in action. Want to add a logo, map, or contact form next?
-
-1github.com
-Make in html
-Absolutely! Here's the full HTML code for your website with a dark blue background, yellow text, bold heading, and the business details you provided:
 
 html
 <!DOCTYPE html>
